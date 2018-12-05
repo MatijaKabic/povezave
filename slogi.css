@@ -16,7 +16,7 @@
 }
 #Logo {
 	width:auto;
-	height: 200px;
+	height: 100px;
 	transition: all .5s ease;
 }
 #Logo:hover {
@@ -35,5 +35,4 @@
 }
 .Tabelica tr:hover {
 	background-color: gold ;
-
 }
